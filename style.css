@@ -1,0 +1,18 @@
+#w{
+    background-color: rgb(44, 142, 44);
+    text-align: center;
+}
+div{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    border: 2px solid rgb(3, 56, 3);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+
+}
+div p{
+    color: brown;
+
+}
